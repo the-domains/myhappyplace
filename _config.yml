@@ -1,0 +1,23 @@
+name: '#myhappyplace'
+favicon: null
+layout_spectrum: 0.7751910130027682
+typography_spectrum: 0.41243008710443974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5990279496181756
+  lightness: 0.6362197110429406
+  saturation: 0.8093253544066101
+  rhythmicContrast: 0.6868797861970961
+purpose: []
